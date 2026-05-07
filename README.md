@@ -6,4 +6,4 @@
 
 ## Skills
 
-- **`neo-tech-industrial-ui`** – Futuristic industrial label aesthetic for Y2K sci-fi, cyberpunk dashboards, HUDs, and aerospace-style interfaces.
+- **`hybrid-design-style`** – Brand design system fusing Text Labs (clean, bold typography, orange accents, light backgrounds) with Droid Ready (dark industrial grit, grid overlays, pixel-style elements, retro-tech terminal energy).
