@@ -8,3 +8,4 @@
 
 - **`hybrid-design-style`** – Brand design system fusing Text Labs (clean, bold typography, orange accents, light backgrounds) with Droid Ready (dark industrial grit, grid overlays, pixel-style elements, retro-tech terminal energy).
 - **`neon-grid-cyberpunk`** – Dark cyberpunk design system with charcoal backgrounds, 7-color neon accent palette, grid backgrounds, CRT scanlines, corner bracket decorations, and bold monospaced typography (Chakra Petch + Share Tech Mono).
+- **`monkey-os-brutalism`** – Dark brutalist dashboard system with purple accents, Roboto Mono typography, bold display fonts, card-based layouts with ring borders, TV noise overlay, marquee animations, NumberFlow counters, and shadcn/ui new-york components.
